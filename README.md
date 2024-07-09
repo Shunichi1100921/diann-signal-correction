@@ -4,6 +4,6 @@ Simulation code of signal correction strategy in DIA-NN[https://www.ncbi.nlm.nih
 
 ## Requirements
 
-- Python
+- Python3
 - Numpy
 - matplotlib
